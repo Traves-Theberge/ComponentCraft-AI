@@ -1,4 +1,4 @@
-# ComponentCraft AI: Your AI-Powered UI Component Artisan
+# ComponentCraft AI: Your AI-Powered UI Component Generator
 
 ## Welcome to ComponentCraft AI!
 
